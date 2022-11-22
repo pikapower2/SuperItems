@@ -374,7 +374,7 @@ ability-lore-terra_strike:
   - "Creates a &cshockwave &7and deals massive &cdamage &7to those in a nearby radius."
 
 ##########################################################################
-##                            ENCHANTMENTS                              ##
+##                             ENCHANTMENTS                             ##
 ##########################################################################
 
 enchant-name-siphon: Siphon
@@ -408,3 +408,26 @@ gui-enchant-action-lore-3:
   - "&7and consume all &d&nenchanting fuel."
   - ""
   - "&c&nRequires enchanting level 35!"
+
+##########################################################################
+##                              ATTRIBUTES                              ##
+##########################################################################
+
+attribute-mc-mac_health: True Health
+attribute-mc-follow_range: Follow Range
+attribute-mc-knockback_resistance: Knockback Resistance
+attribute-mc-movement_speed: Speed
+attribute-mc-flight_speed: Creative Flight Speed
+attribute-mc-attack_damage: Damage
+attribute-mc-attack_knockback: Knockback
+attribute-mc-attack_speed: Attack Speed
+attribute-mc-armor: Armor
+attribute-mc-armor_toughness: Armor Toughness
+attribute-mc-luck: Luck
+
+attribute-as-strength: Strength
+attribute-as-health: Health
+attribute-as-regeneration: Regeneration
+attribute-as-luck: Luck
+attribute-as-wisdom: Wisdom
+attribute-as-toughness: Toughness
